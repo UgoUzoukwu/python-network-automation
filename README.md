@@ -15,8 +15,8 @@ Python 3.x
 Works on Windows, Mac, and Linux.
 
 ## Future Enhancements
--Add a graphical interface.
--Automate the IP input process using a web API.
+- Add a graphical interface.
+- Automate the IP input process using a web API.
 
 ## How to Use
 1. Clone the repository:
